@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|e:\\c# practise\\librarymanagementproject\\mvc project\\librarymsmvc\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\main\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\main\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\main\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\main\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\main\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\main\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\main\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\main\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\controllers\\usertransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:controllers\\usertransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\controllers\\admintransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:controllers\\admintransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\models\\trans.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:models\\trans.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\models\\book.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:models\\book.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\models\\admin.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:models\\admin.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\admin\\validate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\admin\\validate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\admintransaction\\accepted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\admintransaction\\accepted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\tblbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\tblbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\tblusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\tblusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\admintransaction\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\admintransaction\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\tblusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\tblusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\content\\themes\\base\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:content\\themes\\base\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\content\\themes\\base\\accordion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:content\\themes\\base\\accordion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF22C85-3FDE-41A3-AA10-FF28D5EC0830}|LibraryMSMVC.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Home.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Home.cshtml",
+              "RelativeToolTip": "Views\\Main\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:40:08.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:45:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:05:20.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\About.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\About.cshtml",
+              "RelativeToolTip": "Views\\Main\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:41:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Contact.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Main\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:40:10.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:57:10.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Login.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Main\\Login.cshtml",
+              "RelativeToolTip": "Views\\Main\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:41:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTransactionController.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\UserTransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserTransactionController.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\UserTransactionController.cs",
+              "RelativeToolTip": "Controllers\\UserTransactionController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:58:30.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowController.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Controllers\\BorrowController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:58:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAF4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:44:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:59:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminTransactionController.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\AdminTransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminTransactionController.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Controllers\\AdminTransactionController.cs",
+              "RelativeToolTip": "Controllers\\AdminTransactionController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:57:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\User.edmx",
+              "RelativeDocumentMoniker": "Models\\User.edmx",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\User.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\User.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-25T05:57:18.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trans.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Trans.edmx",
+              "RelativeDocumentMoniker": "Models\\Trans.edmx",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Trans.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Trans.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-25T05:57:15.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Book.edmx",
+              "RelativeDocumentMoniker": "Models\\Book.edmx",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Book.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Book.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-25T05:57:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Admin.edmx",
+              "RelativeDocumentMoniker": "Models\\Admin.edmx",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Models\\Admin.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Admin.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-25T05:57:05.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Accepted.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\AdminTransaction\\Accepted.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminTransaction\\Accepted.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\AdminTransaction\\Accepted.cshtml",
+              "RelativeToolTip": "Views\\AdminTransaction\\Accepted.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:39:51.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Validate.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Admin\\Validate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Validate.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\Admin\\Validate.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Validate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:39:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Requests.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\AdminTransaction\\Requests.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminTransaction\\Requests.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\AdminTransaction\\Requests.cshtml",
+              "RelativeToolTip": "Views\\AdminTransaction\\Requests.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:39:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\tblUsers\\Details.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblUsers\\Details.cshtml",
+              "RelativeToolTip": "Views\\tblUsers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:38:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblBooks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\tblBooks\\Index.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblBooks\\Index.cshtml",
+              "RelativeToolTip": "Views\\tblBooks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:39:29.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\tblUsers\\Index.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\tblUsers\\Index.cshtml",
+              "RelativeToolTip": "Views\\tblUsers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:38:26.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T05:37:54.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "theme.css",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Content\\themes\\base\\theme.css",
+              "RelativeDocumentMoniker": "Content\\themes\\base\\theme.css",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Content\\themes\\base\\theme.css",
+              "RelativeToolTip": "Content\\themes\\base\\theme.css",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T16:56:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "accordion.css",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Content\\themes\\base\\accordion.css",
+              "RelativeDocumentMoniker": "Content\\themes\\base\\accordion.css",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\Content\\themes\\base\\accordion.css",
+              "RelativeToolTip": "Content\\themes\\base\\accordion.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T16:55:42.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:54:31.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\c# practise\\LibraryManagementProject\\MVC Project\\LibraryMSMVC\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:54:10.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
